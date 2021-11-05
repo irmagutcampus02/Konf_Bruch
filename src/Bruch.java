@@ -4,6 +4,9 @@ public class Bruch {
 
     public Bruch(int numerator, int denominator) {
         // TODO: Setzen Sie die Attribute entsprechend
+        this.numerator = numerator;
+        this.denominator = denominator;
+        // ist jetzt definiert/ gesetz
     }
 
     public int getNumerator() {
