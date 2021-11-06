@@ -25,6 +25,7 @@ public class Bruch {
         // Achtung: Ganzzahldivision!
         double resultOfBruch;
         resultOfBruch = (double) numerator/  denominator;
+        // casting - int wird in double umgewandelt
         System.out.println(resultOfBruch);
         return resultOfBruch;
 
